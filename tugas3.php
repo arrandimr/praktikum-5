@@ -26,7 +26,7 @@
 				<td><input type="text" name="email"></td>
 			</tr>
 			<tr>
-				<td align="right"> Tempat </td>
+				<td align="right"> Tempat lahir </td>
 				<td> : </td>
 				<td><input type="text" name="tmplahir"></td> 
 				
